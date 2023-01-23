@@ -1,5 +1,9 @@
 ### Hi there 👋
+My name is Casianov Denis
+---
 ### I'm the beginner developer who write web apps using ASP .Net Core and React JS
+
+My skills:
 ---
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -8,10 +12,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasianovDenis)](https://github.com/CasianovDenis/github-readme-stats)
-
+Examples of Work
+---
 ![](https://github.com/CasianovDenis/CasianovDenis/blob/main/myproject.gif)
-
-![snake svg](
-https://github.com/CasianovDenis/CasianovDenis/blob/output/github-contribution-grid-snake.svg)
-
