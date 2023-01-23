@@ -12,11 +12,11 @@ My skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Examples of Work
+Examples of Work:
 ---
 ![](https://github.com/CasianovDenis/CasianovDenis/blob/main/myproject.gif)
 
-My Stats
+My Stats:
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasianovDenis)](https://github.com/CasianovDenis/github-readme-stats)
 
