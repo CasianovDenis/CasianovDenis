@@ -8,6 +8,8 @@ I'm the beginner developer who write web apps using ASP .Net Core and React JS
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasianovDenis)](https://github.com/CasianovDenis/github-readme-stats)
+
 ![snake svg](
 https://github.com/CasianovDenis/CasianovDenis/blob/output/github-contribution-grid-snake.svg)
 
