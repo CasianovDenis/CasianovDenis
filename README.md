@@ -15,8 +15,3 @@ My skills:
 Examples of Work:
 ---
 ![](https://github.com/CasianovDenis/CasianovDenis/blob/main/myproject.gif)
-
-My Stats:
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasianovDenis)](https://github.com/CasianovDenis/github-readme-stats)
-
