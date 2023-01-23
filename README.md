@@ -14,5 +14,5 @@ My skills:
 
 Examples of Work:
 ---
-<img src="https://github.com/CasianovDenis/CasianovDenis/blob/main/myproject.gif" width="700" height="250"/>
+<img src="https://github.com/CasianovDenis/CasianovDenis/blob/main/myproject.gif" width="500" height="350"/>
 
