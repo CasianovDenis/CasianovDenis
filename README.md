@@ -14,4 +14,4 @@ My skills:
 
 Examples of Work:
 ---
-![](https://github.com/CasianovDenis/CasianovDenis/blob/main/myproject.gif 250x250)
+![](https://github.com/CasianovDenis/CasianovDenis/blob/main/myproject.gif height="100")
