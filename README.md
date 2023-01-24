@@ -1,7 +1,5 @@
 ### Hi there 👋
-My name is Casianov Denis
----
- I'm the beginner developer who write web apps using ASP .Net Core and React JS
+### I'm the beginner developer who write web apps using ASP .Net Core and React JS
 
 My skills:
 ---
