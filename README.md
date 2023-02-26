@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm the beginner developer who write web apps using ASP .Net Core and React JS
-📫 **How to reach me:**  [<img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png?raw=true" width="20" />][linkedin]
+📫 **How to reach me:**  <a href="https://www.linkedin.com/in/denis-casianov-25b90b239/" target="_blank"><img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png?raw=true" width="20" /></a>
 
-[linkedin]: https://www.linkedin.com/in/denis-casianov-25b90b239/
+ 
 
 
 **Have worked in:**
