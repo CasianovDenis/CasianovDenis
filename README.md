@@ -29,6 +29,6 @@
 **Examples of Work:**
 
 <a href="https://github.com/CasianovDenis/GameShop">
- <img src="" width="500" height="300"/></a>
+ <img src="https://github.com/CasianovDenis/CasianovDenis/blob/main/ProjectV2.gif" width="500" height="300"/></a>
 
 
