@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm the beginner developer who write web apps using ASP .Net Core and React JS
+### I'm the .Net backend developer
 
 📫 **How to reach me:**  <a href="https://www.linkedin.com/in/denis-casianov-25b90b239/" target="blank"><img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png?raw=true" width="20" /></a>
 
