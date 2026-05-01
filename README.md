@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I'm the .Net backend developer
 
-📫 **How to reach me:**  <a href="https://www.linkedin.com/in/denis-casianov-25b90b239/" target="blank"><img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png?raw=true" width="20" /></a>
-
 **Have worked in:**
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
